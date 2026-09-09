@@ -9,10 +9,10 @@
 
 
 :root {
-    --primary: #0066ff;
-    --secondary: #00b4d8;
-    --dark: #111827;
-    --text: #4b5563;
+    --primary: #7c3aed;
+    --secondary: #06b6a4;
+    --dark: #1f2937;
+    --text: #64748b;
     --light: #f5f7fb;
     --white: #ffffff;
 }
@@ -142,7 +142,7 @@ header {
 
 .home h2 {
     font-size: clamp(20px, 3vw, 30px);
-    color: #374151;
+    color: #475569;
     margin-bottom: 20px;
 }
 
@@ -189,7 +189,7 @@ header {
     transform: translateY(-3px);
 
     box-shadow:
-        0 10px 25px rgba(0, 102, 255, 0.25);
+        0 10px 25px rgba(124, 58, 237, 0.25);
 }
 
 
@@ -433,7 +433,7 @@ header {
 
 
 .timeline-content h4 {
-    color: #555;
+    color: #64748b;
 }
 
 
@@ -956,7 +956,7 @@ form textarea:focus {
     border-color: var(--primary);
 
     box-shadow:
-        0 0 0 3px rgba(0, 102, 255, 0.1);
+        0 0 0 3px rgba(124, 58, 237, 0.1);
 }
 
 
@@ -990,7 +990,7 @@ footer {
 .copyright {
     margin-top: 10px;
 
-    color: #9ca3af;
+    color: #94a3b8;
 
     font-size: 14px;
 }
